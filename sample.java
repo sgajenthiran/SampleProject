@@ -7,7 +7,7 @@ public class sample{
 		system.out.println("Register");
 		system.out.println("Register1");
 		system.out.println("Login1");
-
+		system.out.println("Login1");
 
 	}
 
