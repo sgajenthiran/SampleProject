@@ -5,6 +5,7 @@ public class sample{
 		system.out.println("test");
 		system.out.println("Login");
 		system.out.println("Register");
+		system.out.println("Register1");
 
 	}
 
