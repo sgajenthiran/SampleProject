@@ -4,10 +4,9 @@ public class sample{
 
 		system.out.println("test");
 		system.out.println("Login");
+		system.out.println("Login1");
 		system.out.println("Register");
-		system.out.println("Register1");
-		system.out.println("Login1");
-		system.out.println("Login1");
+		system.out.println("Register1");	
 
 	}
 
