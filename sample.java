@@ -4,6 +4,7 @@ public class sample{
 
 		system.out.println("Login");
 		system.out.println("Register");
+		system.out.println("test");
 
 	}
 
